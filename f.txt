@@ -1,0 +1,3 @@
+python -u train.py --data-path "C:/Users/Admin/Desktop/data/dataset/dataset/usage/" --model MobileNetV4ConvSmall --batch-size 16 --epochs 150 --lr 0.005 --output-dir outputs/training/egg --amp > log.txt
+
+python -u train.py --data-path "D:/Eggg/dataset/usage/" --model MobileNetV4HybridMedium --batch-size 16 --epochs 3 --lr 0.005 --output-dir outputs/training/egg --amp > log.txt
