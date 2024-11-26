@@ -1,4 +1,4 @@
 ﻿# EGG_project
 
-```bash
+```python
 Run python train.py
